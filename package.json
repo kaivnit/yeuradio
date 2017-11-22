@@ -1,0 +1,25 @@
+{
+  "name": "yeuradio",
+  "version": "1.0.0",
+  "description": "blog radio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaivnit/yeuradio.git"
+  },
+  "keywords": [
+    "blog",
+    "radio",
+    "blog",
+    "radio"
+  ],
+  "author": "Duc Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaivnit/yeuradio/issues"
+  },
+  "homepage": "https://github.com/kaivnit/yeuradio#readme"
+}
